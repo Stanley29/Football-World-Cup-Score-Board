@@ -1,0 +1,10 @@
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\bin\Debug\ScoreBoard.exe.config
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\bin\Debug\ScoreBoard.exe
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\bin\Debug\ScoreBoard.pdb
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\obj\Debug\ScoreBoard.csprojAssemblyReference.cache
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\obj\Debug\ScoreBoard.csproj.CoreCompileInputs.cache
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\obj\Debug\ScoreBoard.exe
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\obj\Debug\ScoreBoard.pdb
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\bin\Debug\FootballWorldCupLibrary.dll
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\bin\Debug\FootballWorldCupLibrary.pdb
+D:\work\GlobalLogic\04_test\02_project\ScoreBoard\obj\Debug\ScoreBoard.csproj.CopyComplete

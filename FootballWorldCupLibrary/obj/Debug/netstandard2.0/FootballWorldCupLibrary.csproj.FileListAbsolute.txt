@@ -1,0 +1,9 @@
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\bin\Debug\netstandard2.0\FootballWorldCupLibrary.deps.json
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\bin\Debug\netstandard2.0\FootballWorldCupLibrary.dll
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\bin\Debug\netstandard2.0\FootballWorldCupLibrary.pdb
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\obj\Debug\netstandard2.0\FootballWorldCupLibrary.csprojAssemblyReference.cache
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\obj\Debug\netstandard2.0\FootballWorldCupLibrary.AssemblyInfoInputs.cache
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\obj\Debug\netstandard2.0\FootballWorldCupLibrary.AssemblyInfo.cs
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\obj\Debug\netstandard2.0\FootballWorldCupLibrary.csproj.CoreCompileInputs.cache
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\obj\Debug\netstandard2.0\FootballWorldCupLibrary.dll
+D:\work\GlobalLogic\04_test\02_project\FootballWorldCupLibrary\obj\Debug\netstandard2.0\FootballWorldCupLibrary.pdb
